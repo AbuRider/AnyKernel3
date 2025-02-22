@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Underworld Kernel For Gale/gust
+kernel.string=DeltaKernel for earth/aether
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=gale
-device.name2=gust
+device.name1=earth
+device.name2=aether
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
